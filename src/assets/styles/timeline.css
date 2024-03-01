@@ -1,0 +1,11 @@
+.CardSubTitle-sc-d7qjm1-2 {
+  margin: 10px 0 !important;
+}
+
+.timeline-main-wrapper::-webkit-scrollbar {
+  overflow: auto !important;
+  display: none;
+}
+.timeline-card-content {
+  min-height: 100px !important;
+}
